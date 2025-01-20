@@ -51,7 +51,6 @@ Reimagining ride-sharing platforms with added functionalities for a smoother and
 - **Revenue Forecasting Based on Financial Data Analysis:** Built predictive models with time-series analysis, improving forecast accuracy by 15%.
 - **Fraud Detection Model Using Machine Learning:** Enhanced fraud detection rates by 20% using anomaly detection techniques and XGBoost.
 
-
 ### 🎓 Certifications
 - Power BI Training
 - Master Microsoft Excel Macros and VBA
@@ -61,7 +60,6 @@ Reimagining ride-sharing platforms with added functionalities for a smoother and
 - Agile Methodologies Training
 - Data Science and Machine Learning Training
 - SQL and PL/SQL Programming Certification
-
 
 ---
 
@@ -76,10 +74,11 @@ Reimagining ride-sharing platforms with added functionalities for a smoother and
 
 I’m always open to exciting opportunities, brainstorming ideas, and learning from amazing people like you.
 
-- 📧 **Email:** hiralshah@example.com
-- 💼 **LinkedIn:** [Hiral Shah](https://linkedin.com/in/hiralshah)
+- 📧 **Email:** hiralshah632000@gmail.com  
+- 💼 **LinkedIn:** [Hiral Shah](https://linkedin.com/in/hiralshah)  
+- 📸 **Instagram:** [@hiralshah](https://instagram.com/hiralshah)   
 - 🌐 **GitHub:** [hiralshah](https://github.com/hiralshah)
 
 ---
 
-⭐ **If you’re inspired by my work, don’t forget to star my repositories. Let’s make the digital world shine brighter together!** ⭐
+🌟 **If you’re inspired by my work, don’t forget to star my repositories. Let’s make the digital world shine brighter together!** 🌟
